@@ -2,7 +2,7 @@
 AOS.init();
 
 // Função para o contador do Hero
-const dataDoEvento = new Date("Nov 24, 2024 19:00:00");
+const dataDoEvento = new Date("May 23, 2025 19:00:00");
 const timeStampDoEvento = dataDoEvento.getTime();
 
 const contaAsHoras = setInterval(function() {
